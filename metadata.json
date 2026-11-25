@@ -1,0 +1,8 @@
+{
+  "name": "Remix SecureVault – File Encryption \u0026 Decryption System",
+  "description": "Fernet symmetric file encryption, secure key management, and audited file I/O utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
